@@ -69,6 +69,17 @@ Ligne de commande a ouvrir dans le bon dossier.
     git merge nom_de_la_branche -> Pour fusionner la branche
     git branch -d nom_de_la_branche -> Pour supprimer la branche inutile
 
+
+# Se connecter a un repository distant (de quelqu'un d'autre)
+
+    -> git init
+    -> git remote add origin url_du_repository
+        -> Attention, si vous avez deja un autre origin, vous pouvez remplacer origin par new_origin
+    -> git pull origin master -> (ou new_origin) 
+
+# Comment push sur un autre repository
+
+    -> Pour ça, il faut que le propriétaire du repository vous ai ajouté en colloborateur dans la section "settings" -> "manage-access"
     
     
 
