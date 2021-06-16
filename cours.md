@@ -26,3 +26,7 @@ Ligne de commande a ouvrir dans le bon dossier.
     -> git reset --hard numero-de-version -> Permet de revenir brutalement a la version antérieur choisie
 
 
+# Push notre enregistrement en ligne sur github
+
+    -> git remote add origin lien_vers_repository
+    
