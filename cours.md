@@ -30,3 +30,6 @@ Ligne de commande a ouvrir dans le bon dossier.
 
     -> git remote add origin lien_vers_repository
     
+    
+# Ceci est un bout de code que j'ai ajouté juste pour être relou !!!
+    
