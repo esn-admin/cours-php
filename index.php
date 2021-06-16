@@ -16,5 +16,6 @@ echo "Salut, ça va et toi ?";
 </head>
 <body>
     <h1>Hello World !</h1>
+    <p>Ma nouvelle fonctionnalité trop bien est ici ! </p>
 </body>
 </html>

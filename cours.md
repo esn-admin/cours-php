@@ -55,6 +55,13 @@ Ligne de commande a ouvrir dans le bon dossier.
 4_ git remote add origin lien_vers_repository
 5_ git push origin master
 
+# Les branches sur GIT
+
+    git branch -> Permet d'avoir la liste de toutes les branch, et de savoir sur quelle liste on est
+    git pull origin master -> Avant de creer une nouvelle branch, on s'assurer que notre branche master sois a jour
+    git checkout -b "nom_de_la_nouvelle_branche" -> Permet de creer une nouvelle branche
+    git checkout "nom_de_la_branche" -> Permet de changer de branches
+
 
     
     
