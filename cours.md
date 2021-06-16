@@ -29,4 +29,30 @@ Ligne de commande a ouvrir dans le bon dossier.
 # Push notre enregistrement en ligne sur github
 
     -> git remote add origin lien_vers_repository
-    
+    -> git push origin master
+
+# La routine git/github est la suivante quand on travaille tout seul
+
+1_ git init
+2_ git add . -> On ajoute tout les changements effectuée
+3_ git commit -m "nom du commit" 
+4_ git remote add origin lien_vers_repository
+5_ git push origin master
+
+
+# Recuperer les changements qui ont été fait sur github
+
+    git pull origin master
+
+# La routine git/github est la suivante quand on travaille a plusieurs
+
+1_ git init
+2_ git pull origin master
+3_ Faites vos modifications de codes
+4_ Refaire un git pull
+2_ git add . -> On ajoute tout les changements effectuée
+3_ git commit -m "nom du commit" 
+4_ git remote add origin lien_vers_repository
+5_ git push origin master
+
+
