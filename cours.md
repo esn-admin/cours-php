@@ -63,6 +63,11 @@ Ligne de commande a ouvrir dans le bon dossier.
     git checkout "nom_de_la_branche" -> Permet de changer de branches
     git push origin "nom_de_la_branche" -> Je push ma nouvelle branche
 
+# Fusionner (merge) une branche avec la branche master
+
+    git checkout master -> Pour vous assurer d'être sur la branche master
+    git merge nom_de_la_branche -> Pour fusionner la branche
+    git branch -d nom_de_la_branche -> Pour supprimer la branche inutile
 
     
     
