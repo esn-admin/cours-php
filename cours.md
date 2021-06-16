@@ -61,6 +61,7 @@ Ligne de commande a ouvrir dans le bon dossier.
     git pull origin master -> Avant de creer une nouvelle branch, on s'assurer que notre branche master sois a jour
     git checkout -b "nom_de_la_nouvelle_branche" -> Permet de creer une nouvelle branche
     git checkout "nom_de_la_branche" -> Permet de changer de branches
+    git push origin "nom_de_la_branche" -> Je push ma nouvelle branche
 
 
     
