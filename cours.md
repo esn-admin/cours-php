@@ -1,7 +1,7 @@
 Ligne de commande a ouvrir dans le bon dossier.
     -> Clique droit -> Gui Bash 
     -> Ouvrir le dossier dans visual studio code -> Terminal -> new terminal
-    -> Si besoin, se placer dans le bon fichier en utilant cd 
+    -> Si besoin, se placer dans le bon fichier en utilant cd pour voir les fichier, et dir pour afficher les dossier
 
 # Uniquement la premiere fois
 
